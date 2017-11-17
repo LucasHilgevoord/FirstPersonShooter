@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f2f8b95034768e34c8a76d38054585a8
+timeCreated: 1493662453
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Simpang Berliku
+  fontNames:
+  - Simpang Berliku
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
